@@ -1,2 +1,3 @@
 .venv #ignore virtual environment
 .env  #ignore environment variables
+*.egg-info
