@@ -1,4 +1,6 @@
 # Dependencies
 langchain
 python-dotenv
+fastapi
+uvicorn
 -e .
