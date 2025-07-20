@@ -3,3 +3,5 @@
 
 #Ignore env
 .env
+
+*.egg_info
