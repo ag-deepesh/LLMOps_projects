@@ -1,0 +1,4 @@
+# Dependencies
+langchain
+python-dotenv
+-e .
