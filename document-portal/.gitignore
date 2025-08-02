@@ -4,6 +4,4 @@
 logs/
 __pycache__/
 *.pyc
-*.pyo
-*.pyd
-*.db
+test.py
