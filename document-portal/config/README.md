@@ -1,3 +1,0 @@
-- configuration for LLM models are kept
-    - api_key
-    - base_url

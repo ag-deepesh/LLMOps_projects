@@ -1,7 +1,0 @@
-.venv #ignore virtual environment
-.env  #ignore environment variables
-*.egg-info
-logs/
-__pycache__/
-*.pyc
-test.py
